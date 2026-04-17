@@ -1,0 +1,101 @@
+transaction_id,date,category,product,price,quantity,total
+10001,2025-08-01,Clothing,Socks,41.86,3,125.58
+10002,2025-08-01,Groceries,Eggs,,1,11.52
+10003,2025-08-01,Electronics,Webcam,67.75,,135.5
+10004,2025-08-01,Groceries,Milk,4.03,3,
+10005,2025-08-01,Clothing,,28.37,1,28.37
+10006,2025-08-01,Home Goods,Plate Set,26.04,4,104.16
+10007,2025-08-01,,Plate Set,27.78,1,27.78
+10008,2025-08-01,Home Goods,Candle,38.95,4,155.8
+10009,2025-08-01,Home Goods,Pillow,37.85,,
+10010,2025-08-01,Clothing,T-Shirt,17.27,1,17.27
+10011,2025-08-01,Electronics,USB Cable,69.4,2,138.8
+10012,2025-08-01,Groceries,Coffee,8.82,4,35.28
+10013,2025-08-01,Clothing,Hat,10.92,3,32.76
+10014,,Groceries,Coffee,9.95,2,19.9
+10015,2025-08-02,Books,Children's Book,29.48,3,88.44
+10016,2025-08-02,Electronics,Headphones,56.49,3,169.47
+10017,2025-08-02,Clothing,Jacket,34.74,4,138.96
+10018,2025-08-02,Electronics,Power Bank,,4,244.56
+10019,2025-08-02,Books,Biography,19.34,1,19.34
+10020,2025-08-02,Home Goods,Candle,26.26,,26.26
+10021,2025-08-02,Home Goods,Picture Frame,20.77,2,41.54
+10022,2025-08-02,Electronics,USB Cable,95.91,4,
+10023,2025-08-02,Clothing,Hat,32.53,2,65.06
+10024,2025-08-02,Groceries,Bread,5.96,1,5.96
+10025,2025-08-02,Home Goods,Picture Frame,13.08,4,52.32
+10026,2025-08-02,Home Goods,Coffee Mug,,3,61.23
+10027,2025-08-02,,Jacket,34.4,4,137.6
+10028,2025-08-02,Home Goods,Plate Set,6.2,2,12.4
+10029,2025-08-02,Electronics,Headphones,51.28,2,102.56
+10030,2025-08-02,Books,Cookbook,23.25,,
+10031,2025-08-02,Groceries,,7.53,2,15.06
+10032,2025-08-02,Groceries,Cereal,9.11,2,18.22
+10033,2025-08-02,Groceries,Coffee,2.41,2,4.82
+10034,2025-08-02,Electronics,Webcam,82.01,2,164.02
+10035,2025-08-02,Clothing,Socks,,,103.24
+10036,2025-08-02,Books,Self-Help,21.96,4,87.84
+10037,2025-08-02,Books,Fiction Novel,16.53,2,33.06
+10038,2025-08-02,Electronics,Headphones,35.68,1,35.68
+10039,2025-08-02,Electronics,Power Bank,96.89,1,96.89
+10040,,Home Goods,Pillow,18.6,2,37.2
+10041,2025-08-03,Books,Self-Help,26.57,2,53.14
+10042,2025-08-03,Groceries,Eggs,14.55,4,58.2
+10043,2025-08-03,Electronics,Power Bank,63.42,1,63.42
+10044,2025-08-03,,Biography,15.93,1,15.93
+10045,2025-08-03,Clothing,Jacket,12.98,3,38.94
+10046,2025-08-03,Electronics,Headphones,53.87,1,53.87
+10047,2025-08-03,Clothing,Jacket,17.95,4,71.8
+10048,2025-08-03,Home Goods,Pillow,5.49,3,
+10049,2025-08-03,Clothing,T-Shirt,38.27,3,114.81
+10050,2025-08-03,Home Goods,Plate Set,32.66,,97.98
+10051,,,Self-Help,11.48,3,34.44
+10052,2025-08-03,Groceries,Cereal,10.46,4,41.84
+10053,2025-08-03,Clothing,Jeans,44.52,4,178.08
+10054,2025-08-03,Books,Cookbook,18.99,1,18.99
+10055,2025-08-03,Home Goods,Plate Set,7.22,3,21.66
+10056,2025-08-03,Electronics,USB Cable,73.51,1,73.51
+10057,2025-08-03,Books,Cookbook,24.59,4,98.36
+10058,2025-08-03,Books,Fiction Novel,15.49,3,46.47
+10059,2025-08-03,Home Goods,Pillow,21.53,1,21.53
+10060,,,,14.63,3,43.89
+10061,2025-08-03,Home Goods,Plate Set,31.63,2,63.26
+10062,2025-08-03,Groceries,Milk,5.07,2,10.14
+10063,2025-08-03,Clothing,Jacket,29.75,1,29.75
+10064,2025-08-03,Clothing,Hat,38.43,2,76.86
+10065,2025-08-03,Groceries,Bread,2.33,,2.33
+10066,2025-08-03,Books,Children's Book,14.03,4,56.12
+10067,2025-08-03,Groceries,Milk,10.27,4,41.08
+10068,2025-08-03,Electronics,Smartphone,65.06,4,260.24
+10069,2025-08-03,Books,Fiction Novel,,3,84.45
+10070,2025-08-04,Clothing,T-Shirt,26.42,3,79.26
+10071,2025-08-04,Clothing,Hat,18.12,1,
+10072,2025-08-04,Home Goods,Coffee Mug,7.69,3,23.07
+10073,2025-08-04,Books,Children's Book,23.9,4,95.6
+10074,2025-08-04,Electronics,Smartphone,94.38,,94.38
+10075,,Clothing,Hat,21.83,1,21.83
+10076,2025-08-04,Electronics,Power Bank,89.72,4,358.88
+10077,2025-08-04,Electronics,Smartphone,37.48,4,149.92
+10078,2025-08-04,Books,Fiction Novel,27.85,3,83.55
+10079,2025-08-04,Books,Children's Book,16.49,3,49.47
+10080,2025-08-04,Groceries,Cereal,,3,40.95
+10081,2025-08-04,Groceries,Coffee,13.79,1,13.79
+10082,2025-08-04,Groceries,Milk,4.96,,9.92
+10083,2025-08-04,Books,Self-Help,10.01,1,10.01
+10084,2025-08-05,Electronics,Headphones,44.38,2,88.76
+10085,2025-08-05,Books,Children's Book,20.21,1,20.21
+10086,2025-08-05,Groceries,Cereal,8.3,1,8.3
+10087,2025-08-05,Books,Self-Help,12.4,4,49.6
+10088,2025-08-05,Books,Biography,14.88,3,44.64
+10089,2025-08-05,Clothing,T-Shirt,22.93,4,91.72
+10090,2025-08-05,Groceries,Bread,9.26,4,
+10091,2025-08-05,Clothing,Socks,24.55,1,24.55
+10092,2025-08-05,Books,Self-Help,15.08,4,60.32
+10093,2025-08-05,Electronics,Power Bank,40.14,2,80.28
+10094,2025-08-05,Home Goods,Coffee Mug,29.93,1,29.93
+10095,2025-08-05,Home Goods,Candle,14.97,1,14.97
+10096,2025-08-05,Books,Children's Book,15.34,2,30.68
+10097,2025-08-05,Clothing,Hat,30.11,2,60.22
+10098,,Books,Self-Help,10.66,4,42.64
+10099,2025-08-05,Groceries,Coffee,13.81,3,41.43
+10100,2025-08-06,Clothing,Hat,31.24,2,62.48
